@@ -1,7 +1,7 @@
 package com.example.DesignPatten.Adapter;
 
 public class PPP {
-    public boolean lockPoints(Payment payment) {
+    public boolean lockPoints() {
         return false;
     }
 
